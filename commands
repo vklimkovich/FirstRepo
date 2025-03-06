@@ -1,0 +1,8 @@
+pwd - where am I
+cd - move to directory
+ls - list items
+git add file or *
+git rm file
+git commit -m 'Add file'
+git push
+git checkout -b 'New_branch'
